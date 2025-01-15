@@ -20,7 +20,7 @@ Utilização de técnicas de PNL (Processamento de Linguagem Natural) para anál
 
 https://github.com/GilbertoRadecki/Analise-de-Emocoes---PNL
 
-### 04. Visão Computacional
+### 04. Visão Computacional para coleta de dados demográficos
 <img src="/assets/img/vc_bb.jpg" alt="Visão Computacional - Bounding Boxes">
 O objetivo do projeto é abrir a câmera do dispositivo e, uma vez que uma pessoa se coloque diante dele, uma bounding box será colocada sobre seu rosto, e ao lado dela a predição do gênero, da idade e do humor dessa pessoa.
 
