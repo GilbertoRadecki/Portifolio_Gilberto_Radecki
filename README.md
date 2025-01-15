@@ -25,3 +25,9 @@ https://github.com/GilbertoRadecki/Analise-de-Emocoes---PNL
 O objetivo do projeto é abrir a câmera do dispositivo e, uma vez que uma pessoa se coloque diante dele, uma bounding box será colocada sobre seu rosto, e ao lado dela a predição do gênero, da idade e do humor dessa pessoa.
 
 https://github.com/GilbertoRadecki/Visao_Computacional_Demographic
+
+
+### 05. Transcrição de áudio
+<img src="/assets/img/audio_transcription.jpg">
+Demonstra a utilização de um modelo pré-treinado para a tarefa de speech to text (fala para texto).
+É um ótimo exemplo para demonstrar a facilidade que dispomos, graças a pesquisa e desenvolvimento da IA, de recursos para realização de tarefas complexas.
