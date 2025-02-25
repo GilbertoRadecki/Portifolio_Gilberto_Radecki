@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo(a)! 👋
 
-### Este repositório é dedicado ao compartilhamento dos meus projetos de Data-Science.
+### Este repositório é dedicado ao compartilhamento dos meus projetos de Data-Science, Machine Learning e Deep Learning.
 
 ### 01. ChatBot
 <img src="/assets/img/cb.jpg" alt="ChatBot">
