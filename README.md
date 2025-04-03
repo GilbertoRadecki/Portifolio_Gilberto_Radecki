@@ -33,5 +33,5 @@ Demonstra a utilização de um modelo pré-treinado para a tarefa de speech to t
 É um ótimo exemplo para demonstrar a facilidade que dispomos, graças a pesquisa e desenvolvimento da IA, de recursos para realização de tarefas complexas.
 
 ### 06. Data Chat
-<img src="/assets/img/vc_bb.jpg" alt="Conversando com os dados: Democratizando a análise de dados através da Inteligência Artificial">
+<img src="/assets/img/datchat.png" alt="Conversando com os dados: Democratizando a análise de dados através da Inteligência Artificial">
 A ideia desse projeto é permitir que um usuário faça o upload de um arquivo csv e interaja com um LLM para obter insights sobre esses dados. A interação do usuário será em linguagem natural, e não requer, portanto, conhecimentos em programação.
